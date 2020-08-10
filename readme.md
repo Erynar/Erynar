@@ -2,9 +2,8 @@
 
 ## Je suis étudiante en informatique
 - 🎵 Je travaille en ce moment sur un bot Discord de blind test
-- J'essaye d'apprendre un maximum de languages
+- 💪 J'essaye d'apprendre un maximum de languages pour m'améliorer toujours plus !
 - 🎮 J'aimerai un jour développer mon propre jeu
-- J'aime beaucoup jouer aux jeux vidéos
 
 ### Où me trouver :
 
