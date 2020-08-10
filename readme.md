@@ -4,7 +4,7 @@
 - 🎵 Je travaille en ce moment sur un bot Discord de blind test
 - J'essaye d'apprendre un maximum de languages
 - 🎮 J'aimerai un jour développer mon propre jeu
-- J'aime beaucoup jouer aux jeux vidéos ! 
+- J'aime beaucoup jouer aux jeux vidéos
 
 ### Où me trouver :
 
